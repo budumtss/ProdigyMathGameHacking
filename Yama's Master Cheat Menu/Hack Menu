@@ -1,5 +1,5 @@
 function closeit(){
-prodigydiv.remove
+prodigy div.remove
 }
 setTimeout("closeit", 2000);
 function TeleportPlayer() {
